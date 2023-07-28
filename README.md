@@ -185,25 +185,25 @@
 <table>
   <tr>
     <td align="center" width="80">
-      <a href="">
+      <a href="#">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBUCvl89tSAMKbnSZqc9itD8CqFMpaModsxA&usqp=CAU" width="40" height="40" alt="Ethereum" />
       </a>
       <br>Ethereum
     </td>
     <td align="center" width="80">
-      <a href="">
+      <a href="#">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0bukCY968PkxsM2v3W7dLuMvkSjS1Ni65vQ&usqp=CAU" width="40" height="40" alt="Binance" />
       </a>
       <br>Binance
     </td>
     <td align="center" width="80">
-      <a href="">
+      <a href="#">
         <img src="https://cryptologos.cc/logos/solana-sol-logo.png" width="40" height="40" alt="Solana" />
       </a>
       <br>Solana
     </td>
     <td align="center" width="80">
-      <a href="">
+      <a href="#">
         <img src="https://cryptologos.cc/logos/casper-cspr-logo.png" width="40" height="40" alt="Casper" />
       </a>
       <br>Casper
