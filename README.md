@@ -12,7 +12,7 @@
 <table style="font-family:sansserif">
 <tr>
   <td align="center" width="80">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
+  <a href="https://angular.io" target="_blank" rel="noopener noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="60" height="60"/>
   </a>
   </td>
