@@ -1,10 +1,10 @@
-<a align="center" href="https://github.com/beargateway"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Github!;Full-Stack%20Developer;&font=Pacifico&center=true&size=40&width=800&height=80"></a>
+<a align="center" href="https://github.com/hexathereum"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Github!;Full-Stack%20Developer;&font=Pacifico&center=true&size=40&width=800&height=80"></a>
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=beargateway&theme=merko&layout=compact&hide_border=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beargateway&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=hexathereum&theme=merko&layout=compact&hide_border=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexathereum&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true) -->
 
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=beargateway.beargateway" />
-<img align="right" src="https://img.shields.io/github/followers/beargateway?label=Follow&style=social" />
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=hexathereum.hexathereum" />
+<img align="right" src="https://img.shields.io/github/followers/hexathereum?label=Follow&style=social" />
 <h1 align="center"></h1>
 
 ## **👍 My Skills**
@@ -213,5 +213,5 @@
 
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=🏆+Github+Trophies&vCenter=true&width=800&height=45&color=8acd32&duration=1&pause=100000" width="100%" />
 
-| <img align="center" src="https://github-profile-trophy.vercel.app/?username=beargateway&margin-w=15&row=1&column=7&no-frame=true" alt="My Github Stats" /> |
+| <img align="center" src="https://github-profile-trophy.vercel.app/?username=hexathereum&margin-w=15&row=1&column=7&no-frame=true" alt="My Github Stats" /> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
