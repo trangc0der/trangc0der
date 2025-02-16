@@ -1,4 +1,4 @@
-<a align="center" href="https://github.com/vantrang335"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20HC%20Technology%20Solutions%20Company!;Full-Stack%20Developer;&font=Pacifico&center=true&size=40&width=800&height=80"></a>
+<a align="center" href="https://github.com/vantrang335"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20Văn%20Trang%20Developer!;Full-Stack%20Developer;&font=Pacifico&center=true&size=40&width=800&height=80"></a>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=vantrang335&theme=merko&layout=compact&hide_border=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vantrang335&hide=prs&theme=merko&layout=compact&hide_border=true&show_icons=true) -->
